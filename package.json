@@ -1,0 +1,32 @@
+{
+  "name": "cla-collab-project",
+  "version": "0.0.1",
+  "description": "Boilercode genrator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUHAMMADFARHAN1/codecla-cli.git"
+  },
+  "keywords": [
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Muhammad Farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUHAMMADFARHAN1/codecla-cli/issues"
+  },
+  "homepage": "https://github.com/MUHAMMADFARHAN1/codecla-cli#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "commander": "^13.1.0",
+    "inquirer": "^12.5.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
