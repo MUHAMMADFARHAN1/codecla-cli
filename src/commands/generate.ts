@@ -7,8 +7,8 @@ import inquirer from "inquirer";
 import * as url from "url";
 // const __filename = url.fileURLToPath(import.meta.url);
 // const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
- const __dirname = "C:/Users/farha/Documents/codecla-cli";
-//const __dirname = process.cwd();
+// const __dirname = "C:/Users/farha/Documents/codecla-cli";
+const __dirname = process.cwd() + "./../";
 
 type Lang = "javascript" | "python";
 
