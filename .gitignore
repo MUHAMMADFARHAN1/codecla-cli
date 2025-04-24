@@ -1,2 +1,4 @@
 node_modules
 generated
+src\commands\generate.js
+src\index.js
