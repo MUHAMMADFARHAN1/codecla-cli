@@ -1,2 +1,8 @@
 To test:
 npx tsx index.ts generate -n function_name -l javascript -i a,b
+
+To run:
+node index.js generate -n function_name -l javascript -i a,b
+
+to build:
+npm run build
