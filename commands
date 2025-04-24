@@ -1,0 +1,2 @@
+To test:
+npx tsx index.ts generate -n function_name -l javascript -i a,b
